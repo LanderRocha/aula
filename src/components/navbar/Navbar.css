@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 0 50px;
+
+}
+.navbar-content{
+    flex: 1;
+    display: flex;
+    justify-content: right;
+    margin: 0 50px 0 0;
+    
+}
+.navbar-content-children{
+    margin: 0 20px 0 0;
+}

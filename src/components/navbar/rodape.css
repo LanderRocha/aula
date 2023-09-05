@@ -1,0 +1,15 @@
+.footer-body{
+    display: flex;
+    justify-content: space-around;
+    max-width: 600px;
+    margin: 50px 0 0 0;
+
+}
+.title{
+    font-size: 30px;
+    font-weight: 800;
+}
+.itens{
+    font-size: 16px;
+
+}
